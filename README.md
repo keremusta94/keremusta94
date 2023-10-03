@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning BRC20 network
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, it a secret..
+- 📫 How to reach me, it a real secret..
 
 <!---
 keremusta94/keremusta94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
